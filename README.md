@@ -1,5 +1,7 @@
+Projektinhallintatyökalu
+
 Tarkoituksena on laatia projektinhallintasovellus. 
-Erityisesti sovellus on suunnattu pienelle rakennusalan /puusepän yritykselle projektien hallintaan, mutta sitä voi käyttää mihin vaan projektiin. Työkalun avulla on mahdollsita seurata kuinka hyvin tarjouksessa olleet tuntimäärä ja materiaalin tarve toteutuu. Näin yrityksellä on mahdollista tehdä parempia tarjouksia tulevaisuudessa. Projektiin on mahdollista liittää työtehtäviä ja niille työntekijä. Projektiin kuuluu myös tilaaja, materiaalia ja tarjous. 
+Erityisesti sovellus on suunnattu pienelle rakennusalan /puusepän yritykselle projektien hallintaan, mutta sitä voi käyttää mihin vaan projektiin. Projektiin on mahdollista liittää työtehtäviä ja niille työntekijä. Projektiin kuuluu myös tilaaja, materiaalia ja tarjous. Työkalun avulla on mahdollsita seurata kuinka hyvin tarjouksessa olleet tuntimäärä ja materiaalin tarve toteutuu. Näin yrityksellä on mahdollista tehdä parempia tarjouksia tulevaisuudessa.
 
 Toimintoja:
 - kirjautuminen

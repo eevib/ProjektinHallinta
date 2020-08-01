@@ -1,3 +1,9 @@
 <p>Tervetuloa!</p>
+<p>Kaikki asiakkaat:</p><br>
+<hr>
+{% for customer in customers %}
+{{customer[0] }}
+<hr>
+{% endfor %}
 <a href="/newCustomer">Lisää uusi asiakas</a>
 
